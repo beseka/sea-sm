@@ -1,0 +1,18 @@
+Mükemmel bir gün! | POSITIVE | POSITIVE | PASS
+Berbat bir servis. | NEGATIVE | NEGATIVE | PASS
+Hiç sevmedim 🤮 | NEGATIVE | NEGATIVE | PASS
+Bayıldım 😍 | POSITIVE | POSITIVE | PASS
+Harika (!) | NEGATIVE | NEGATIVE | PASS
+Mükemmel ötesi bir film. | POSITIVE | POSITIVE | PASS
+Güzel değil. | NEGATIVE | NEGATIVE | PASS
+İnanılmaz kötü. | NEGATIVE | NEGATIVE | PASS
+http://link.com harika | POSITIVE | POSITIVE | PASS
+Fena değil aslında. | POSITIVE | POSITIVE | PASS
+Sıkıntı yok, gayet iyi. | POSITIVE | POSITIVE | PASS
+Tavsiye etmem, kaçın. | NEGATIVE | NEGATIVE | PASS
+Bok gibi bir film. | NEGATIVE | NEGATIVE | PASS
+Bu ürün beş para etmez. | NEGATIVE | NEGATIVE | PASS
+Tam anlamıyla rezalet. | NEGATIVE | NEGATIVE | PASS
+Lezzeti iğrençti. | NEGATIVE | NEGATIVE | PASS
+Zıkkımın kökü. | NEGATIVE | NEGATIVE | PASS
+Tests Passed: 17/17
